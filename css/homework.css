@@ -1,0 +1,22 @@
+.top-container {
+  background-color: #F96666;
+  border: 10px;
+  height: 200px;
+  padding: 20px width: 200px;
+}
+
+.middle-container {
+  background-color: #AEBDCA;
+  border: : 20px height: 200px;
+  width: 200px;
+}
+
+.botttom-container {
+  background-color: yellow;
+  border: : 10px height: 200px;
+  width: 200px;
+}
+
+span {
+  text-decoration: underline;
+}

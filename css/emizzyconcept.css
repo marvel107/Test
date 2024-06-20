@@ -1,0 +1,76 @@
+.table{
+  size:100px;
+  table-layout: auto;
+  width: 100%;
+}
+.firstspacious {
+  background-color: blue;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+
+.secondspacious {
+  background-color: red;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+.thirdspacious{
+  background-color: yellow;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+.fourthspacious{
+  background-color: green;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+.fifthspacious{
+  background-color: orange;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+.sixthspacious{
+  background-color: grey;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
+.seventhspacious{
+  background-color: gold;
+  font-weight: bolder;
+  font-size: 130%;
+  width: 140px;
+  height: 100px;
+  border: solid 10px;
+  margin: 10px;
+  padding: 20px;
+}
